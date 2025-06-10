@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrityunjayanand Sookun</h1>
 - 🔭 I’m currently working on **Movie Tracker**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA Spring Boot**
 
 - 📫 How to reach me **sookunmm@gmail.com**
 
